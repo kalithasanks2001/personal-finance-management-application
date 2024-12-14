@@ -113,4 +113,4 @@ finance-management-app/
 - Integrate notifications (email or SMS) for budget alerts.
 - Add expense forecasting with machine learning.
 
--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
