@@ -1,6 +1,6 @@
 **Personal Finance Management Application**
 
-To help users manage their personal finances by tracking income, expenses, and generating financial reports. Built with Python and SQLite for data persistence.
+To help users manage their personal finances by tracking income, expenses, and generating financial reports. Built with Python and MySQL for data persistence.
 
 **Project Overview**
 
