@@ -17,7 +17,7 @@ This application allows users to:
 **Features**
 
 - **User Authentication**  
-  Secure user registration and login system with SQLite.
+  Secure user registration and login system with MySQL.
 
 - **Income and Expense Tracking**  
   Add, update, and delete income and expense entries with category tagging.
@@ -32,7 +32,7 @@ This application allows users to:
   Set budgets for different categories and receive notifications when spending exceeds limits.
 
 - **Data Persistence**  
-  All data is securely stored using **SQLite**.
+  All data is securely stored using **MySQL**.
 
 - **User-Friendly CLI**  
   The application is easy to use with clear instructions and a smooth workflow.
@@ -43,7 +43,7 @@ This application allows users to:
 
 - **Programming Language**: Python  
 - **Database**: SQLite3  
-- **Libraries**: Pandas, SQLite3  
+- **Libraries**: Pandas, MySQL  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ finance-management-app/
 │
 ├── finance_app.py            # Main application code
 ├── finance_app_tests.py      # Unit tests
-├── finance.db                # SQLite database (generated automatically)
+├── finance.db                # MySQL database (generated automatically)
 ├── README.md                 # Project documentation
 └── requirements.txt          # Project dependencies
 
